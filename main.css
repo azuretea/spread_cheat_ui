@@ -71,13 +71,15 @@ table {
 }
 
 .log-in {
-	/*float: center;*/
-	margin: 8em 0em 8em 0em;
+	
+	margin: 8em 2em 8em 2em;
+	padding: 1.5em 1em 1.5em 1em;
+	border: 2px solid white;
 }
 
 .log-in li {
 	display: inline-block;
-	margin: 2em;
+	margin: 1.5em;
 }
 
 .log-button {
@@ -131,4 +133,9 @@ input {
 	border-style: solid;
 }
 
-
+::selection {
+  background: #D3D3D3; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #D3D3D3; /* Gecko Browsers */
+}
