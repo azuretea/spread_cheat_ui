@@ -66,6 +66,7 @@ table {
 	color: #AAAFBD;
 	font-size: 1.5em;
 	padding-left: 1.5em;
+	margin-top: 0.5em;
 	font-style: italic;
 	font-family: "Raleway", san-serif;
 
@@ -76,11 +77,12 @@ table {
 	margin-right: 2em;
 	font-size: 1em;
 	padding: 1em;
-	border-radius: 15%;
+	border-radius: 5%;
 	background-color: #000000;
 	color: #416EF2;
 	text-transform: uppercase;
 	border-color: #416EF2;
+	border-style: solid;
 }
 
 h1 {
