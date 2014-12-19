@@ -46,7 +46,6 @@ table {
 /*end reset*/
 
 .header {
-	background-color: #000000;
 	padding-left: 2em;
 	padding-bottom: -1em;
 	padding-top: 0.00125em;
@@ -72,17 +71,28 @@ table {
 
 }
 
+.log-in {
+	float: center;
+}
+
+.log-in li {
+	display: inline-block;
+}
+
 .log-button {
-	float: right;
-	margin-right: 2em;
+	margin: 0 auto;
 	font-size: 1em;
 	padding: 1em;
 	border-radius: 5%;
-	background-color: #000000;
 	color: #416EF2;
+	background-color: transparent;
 	text-transform: uppercase;
 	border-color: #416EF2;
 	border-style: solid;
+}
+
+body {
+	background-color: #000000;
 }
 
 h1 {
