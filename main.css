@@ -49,7 +49,6 @@ table {
 	padding-left: 2em;
 	padding-bottom: -1em;
 	padding-top: 0.00125em;
-	box-sizing: border-box;
 	width: 100%;
 	display: inline-block;
 	z-index: 9999;
@@ -67,16 +66,18 @@ table {
 	padding-left: 1.5em;
 	margin-top: 0.5em;
 	font-style: italic;
-	font-family: "Raleway", san-serif;
+	font-family: "Raleway", sans-serif;
 
 }
 
 .log-in {
 	float: center;
+	margin: 5em .5em 5em .5em;
 }
 
 .log-in li {
 	display: inline-block;
+	margin: 1em;
 }
 
 .log-button {
@@ -99,4 +100,20 @@ h1 {
 	font-size: 3em;
 	color: #416EF2;
 
+}
+
+label {
+	color: #AAAFBD;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 1.5em;
+}
+
+input {
+	background-color: transparent;
+	color: #416EF2;
+	font-family: font-family: "Raleway", sans-serif;
+	font-size: 2em;
+	border-radius: 5%;
+	border-color: #AAAFBD;
+	border-style: solid;
 }
