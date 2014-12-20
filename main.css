@@ -153,6 +153,13 @@ h3 {
 
 h4 {
 	color: #ff1919;
+	margin-left: 1em;
+	font-size: 2em;
+	font-family: "Raleway", sans-serif;
+	width: 2em;
+}
+
+span {
 	background-color: #e5c100;
 	border-radius: 50%;
 }
