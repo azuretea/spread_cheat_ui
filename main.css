@@ -153,6 +153,12 @@ table {
 
 }
 
+.descriptions {
+	margin-left: 1em;
+	margin-right: 1em;
+
+}
+
 body {
 	background-color: #000000;
 }
