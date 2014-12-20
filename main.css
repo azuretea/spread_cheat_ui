@@ -158,6 +158,7 @@ input {
 
 i {
 	horizontal-align: center;
+	vertical-align: center;
 }
 
 ::selection {
