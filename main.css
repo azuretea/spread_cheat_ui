@@ -165,6 +165,7 @@ h4 {
 span {
 	background-color: #e5c100;
 	border-radius: 50%;
+	mid-width: 48px;
 }
 
 label {
