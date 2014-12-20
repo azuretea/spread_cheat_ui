@@ -117,7 +117,8 @@ table {
 	padding: .2em;
 	border: .1em solid #416EF2;
 	margin: .5em;
-	min-width:74px; text-align:center;
+	min-width: 74px; 
+	text-align: center;
 }
 
 body {
@@ -152,6 +153,14 @@ input {
 	border-radius: 5%;
 	border-color: #AAAFBD;
 	border-style: solid;
+}
+
+.i-container ul{
+	text-align: center;
+}
+
+.i-container ul li {
+	display: inline;
 }
 
 ::selection {
