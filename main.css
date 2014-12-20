@@ -117,6 +117,7 @@ table {
 	padding: .2em;
 	border: .1em solid #416EF2;
 	margin: .5em;
+	min-width:74px; text-align:center;
 }
 
 body {
