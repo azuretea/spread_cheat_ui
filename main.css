@@ -142,6 +142,8 @@ table {
 	font-size: 2em;
 	font-family: "Raleway", sans-serif;.circle
 	width: 2.5em;
+	max-width: 2.5em;
+	max-height: 2.5em;
 	height: 2.5em;
 	border-radius: 50%;
 	color: #FFFFFF;
