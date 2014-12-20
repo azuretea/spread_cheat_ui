@@ -151,6 +151,12 @@ h3 {
 	font-family: "Raleway", sans-serif;;
 }
 
+h4 {
+	color: transparent;
+	background-color: #ffd700;
+	border-radius: 50%;
+}
+
 label {
 	color: #AAAFBD;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
