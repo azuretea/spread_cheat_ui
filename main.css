@@ -113,7 +113,7 @@ table {
 
 .icon-styles > li {
 	color: #416EF2;
-
+	display:inline-block;
 }
 
 .fa {
@@ -154,11 +154,6 @@ input {
 	border-radius: 5%;
 	border-color: #AAAFBD;
 	border-style: solid;
-}
-
-i {
-	horizontal-align: center;
-	vertical-align: center;
 }
 
 ::selection {
