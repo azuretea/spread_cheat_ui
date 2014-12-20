@@ -156,6 +156,10 @@ input {
 	border-style: solid;
 }
 
+i {
+	horizontal-align: center;
+}
+
 ::selection {
   background: #D3D3D3; /* WebKit/Blink Browsers */
 }
