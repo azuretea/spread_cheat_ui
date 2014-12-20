@@ -135,12 +135,13 @@ table {
 
 .notifications {
 	margin: .5em;
+	display: inline-block;
 }
 
 .circle {
 	margin-left: 0.5em;
 	font-size: 1.25em;
-	font-family: "Raleway", sans-serif;.circle
+	font-family: "Raleway", sans-serif;
 	width: 1.25em;
 	max-width: 1.25em;
 	max-height: 1.25em;
@@ -156,6 +157,8 @@ table {
 .descriptions {
 	margin-left: 1em;
 	margin-right: 1em;
+	font-family: "Raleway", sans-serif;
+	text-transform: uppercase;
 
 }
 
