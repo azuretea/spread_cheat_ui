@@ -57,7 +57,6 @@ table {
 
 .branding {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	text-shadow: 0 0 0.5em #7a99f5;
 }
 
 .slogan {
@@ -120,7 +119,6 @@ table {
 	margin: .5em;
 	min-width: 74px; 
 	text-align: center;
-	text-shadow: 0 0 0.25em #7a99f5;
 }
 
 body {
@@ -130,6 +128,7 @@ body {
 h1 {
 	font-size: 3em;
 	color: #416EF2;
+	text-shadow: 0 0 0.5em #7a99f5;
 
 }
 
