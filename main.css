@@ -156,26 +156,17 @@ h3 {
 }
 
 h4 {
-	color: #ff1919;
 	margin-left: 1em;
 	font-size: 2em;
 	font-family: "Raleway", sans-serif;.circle
-	width:500px;
-	height:500px;
-	border-radius:50%;
-	font-size:50px;
-	color:#fff;
-	line-height:500px;
-	text-align:center;
-	background:#000
-
-}
-
-span {
-	background-color: #e5c100;
+	width: 2.5em;
+	height: 2.5em;
 	border-radius: 50%;
-	mid-width: 48px;
-}
+	color: #FFFFFF;
+	line-height: 2.5em;
+	text-align: center;
+	background: #e5c100;
+
 
 label {
 	color: #AAAFBD;
