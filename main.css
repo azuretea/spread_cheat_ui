@@ -139,15 +139,15 @@ table {
 
 .circle {
 	margin-left: 0.5em;
-	font-size: 1em;
+	font-size: 1.5em;
 	font-family: "Raleway", sans-serif;.circle
-	width: 1em;
-	max-width: 1em;
-	max-height: 1em;
-	height: 1em;
+	width: 1.5em;
+	max-width: 1.5em;
+	max-height: 1.5em;
+	height: 1.5em;
 	border-radius: 50%;
 	color: #FFFFFF;
-	line-height: 1em;
+	line-height: 1.5em;
 	text-align: center;
 	background-color: #e5c100;
 
