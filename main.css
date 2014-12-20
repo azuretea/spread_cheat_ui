@@ -108,12 +108,11 @@ table {
 	display: inline-block;
 }
 
-.icon-styles ul{
-	display: inline-block;
-}
 
-.icon-styles li {
+
+.icon-styles > li {
 	color: #416EF2;
+	display: inline-block;
 
 }
 
