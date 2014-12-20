@@ -112,6 +112,12 @@ table {
 	display: inline-block;
 }
 
+.icon-styles > li:hover {
+	cursor: pointer;
+	color: #000000;
+	background-color: #416EF2;
+}
+
 .fa {
 	text-rendering: auto;
 	padding: .2em;
