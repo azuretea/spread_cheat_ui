@@ -113,10 +113,10 @@ table {
 }
 
 .fa {
-	display: inline-block;
 	text-rendering: auto;
-	padding: 1em;
+	padding: .2em;
 	border: .1em solid #416EF2;
+	margin: .5em;
 }
 
 body {
