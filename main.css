@@ -105,10 +105,16 @@ table {
 	padding: 1.5em 1em 1.5em 1em;
 	border: 2px solid white;
 	color: #416EF2;
+	display: inline-block;
+}
+
+.icon-styles ul{
+	display: inline-block;
 }
 
 .icon-styles li {
 	color: #416EF2;
+
 }
 
 .fa {
@@ -149,10 +155,6 @@ input {
 	border-radius: 5%;
 	border-color: #AAAFBD;
 	border-style: solid;
-}
-
-i {
-	color: #416EF2;
 }
 
 ::selection {
