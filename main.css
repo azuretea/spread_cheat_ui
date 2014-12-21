@@ -135,7 +135,10 @@ table {
 
 .notifications {
 	margin: .5em;
-	display: inline-block;
+}
+
+.notification div{
+	display:inline-block;
 }
 
 .circle {
